@@ -90,7 +90,7 @@ function addMealToDOM(meal) {
             <h1>${meal.strMeal}</h1>
             <img src="${meal.strMealThumb}" alt="${meal.strMeal}" />
             <div class="single-meal-info">
-                ${meal.strCategory ? `<h2>Category: ${meal.strCategory},` : ''}
+                ${meal.strCategory ? `<h2>Categories: ${meal.strCategory},` : ''}
                 ${meal.strArea ? `${meal.strArea}</h2>` : ''}
             </div>
             <div class="main">
