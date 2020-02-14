@@ -1,3 +1,4 @@
+// BUILT MY MRIVASPEREZ RELEASED UNDER UNLICENSE
 const search = document.getElementById('search'),
     submit = document.getElementById('submit'),
     random = document.getElementById('random'),
@@ -122,3 +123,5 @@ mealsEl.addEventListener('click', e => {
 })
 
 random.addEventListener('click', randomMeal);
+
+// BUILT MY MRIVASPEREZ RELEASED UNDER UNLICENSE
