@@ -1,4 +1,4 @@
-# Repast: Search for or generate a random, sumptuous meal. [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+# Repast: search for or generate a random, sumptuous meal. [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 by mrivasperez - [live demo](https://mrivasperez.github.io/Repast)
 ## About
 Repast is a responsive, single-page application to search for a sumptuous meals. It provides you with a list of meals based on search terms and when you select a meal it provides you with their ingredients and instructions to prepare. It also has the functionality to generate a random meal by clicking on the random (shuffle) button. 
