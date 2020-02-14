@@ -6,7 +6,7 @@ Repast is a responsive, single-page application to search for a sumptuous meals.
 I used the [themealdb.com](www.themealdb.com) API along with HTML, CSS, and Vanilla JS to built this app.
 
 ## Screenshots
-![Screenshot of homepage](assets/screenshots/home)
+![Screenshot of homepage](assets/screenshots/home.png)
 > A screenshot of the Repast main screen.
 
 ![A screenshot of a Repast search for lasagna](assets/screenshots/search.png)
